@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397742566522",
+    "project_id": "duitmu-469f8",
+    "storage_bucket": "duitmu-469f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397742566522:android:b790b996fe4bc6c0f6dfc3",
+        "android_client_info": {
+          "package_name": "com.example.duitmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397742566522-dhbl6gh65q0v99h0tnmepjjmi15e875s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duitmu",
+            "certificate_hash": "8889e65683c3dd194fb6b657652fb9c189b3363f"
+          }
+        },
+        {
+          "client_id": "397742566522-qdnfmnkreleum2m486tirc84d55rep6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAtlbeJ4bgmrYjaPehE_rlCcIp6WKfC-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397742566522-qdnfmnkreleum2m486tirc84d55rep6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

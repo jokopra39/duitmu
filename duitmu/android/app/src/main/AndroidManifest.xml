@@ -2,6 +2,7 @@
     package="com.example.duitmu">
    <application
         android:label="Duitmu"
+        android:usesCleartextTraffic="true"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
